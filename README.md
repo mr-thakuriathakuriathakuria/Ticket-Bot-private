@@ -1,7 +1,4 @@
-# Pika Ranked Bedwars Tickets
-made by knull, updated by deyo to use sqlite cuz why not.
-
-A  Discord bot that manages tickets for the PikaNetwork Ranked Bedwars community. The bot uses Discord.js v14 with a Prisma-backed PostgreSQL database to provide a customizable ticket workflow for appeals, general support, store issues and partnership requests.
+ The bot uses Discord.js v14 with a Prisma-backed PostgreSQL database to provide a customizable ticket workflow for appeals, general support, store issues and partnership requests.
 
 ## Features
 - Slash commands and interaction handlers for creating and managing tickets
