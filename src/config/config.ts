@@ -1,7 +1,7 @@
 
 // src/config/config.ts
 export default {
-    token: 'MTUwNTU5MTQ3MzkxODQ0MzcwMQ.G6PMEp.NwsmXp0S3gQ3bo-x4JcfsWZBn-0gmmH4vivPPA',
+    token: 'MTUwNTU5MTQ3MzkxODQ0MzcwMQ.GQKGB7.R9xF3pagYU_4NpEAUk5-cncv1Jd_3uU3H2zYi4',
     ticketsChannelId: '1505589538989408266',
     ticketsChannelId2: '1505589538989408266',
     generalTicketsCategoryId: '1505588305184686280',
