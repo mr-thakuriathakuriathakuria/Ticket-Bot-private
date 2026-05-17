@@ -1,7 +1,7 @@
 
 // src/config/config.ts
 export default {
-    token: 'MTM1NTk2NDMzMjk1NzExMDQ1Ng.GWU0je.9CqUsQCiV-uB7krPsKC_IhCGF2fPhYn-7HdK-0',
+    token: 'MTUwNTU5MTQ3MzkxODQ0MzcwMQ.G6PMEp.NwsmXp0S3gQ3bo-x4JcfsWZBn-0gmmH4vivPPA',
     ticketsChannelId: '1505589538989408266',
     ticketsChannelId2: '1505589538989408266',
     generalTicketsCategoryId: '1505588305184686280',
@@ -23,7 +23,7 @@ export default {
     ticketLogsChannelId2: '1345036791094448212',
     storeChannelID: '1292050904622563412',
     SSAppealTeamRoleId: '1338957456918708235',
-    clientId: '793811835681767454',
+    clientId: '1505591473918443701',
     guildId: '1366798672276492348',
     transcriptChannel1: '1505588227678142655',
     transcriptChannel2: '1505588227678142655',
